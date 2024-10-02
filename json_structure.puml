@@ -1,0 +1,31 @@
+@startjson json
+
+
+{
+    "Group Name": {
+        "calanderIDs": ["c_2fe@group.calendar.google.com", "c_jj@group.calendar.google.com"],
+        "calanderName": ["Board Games", "Jigsaw Games"],
+        "groupID": 21,
+        "defaultImageID": "92",
+        "defaultLocation": {
+            "geom": "-72.9247029825365;41.30471587811061",
+            "locality": "New Haven",
+            "postalCode": "06510",
+            "street": "71 Orange St",
+            "country": "United States",
+            "region": "Connecticut",
+            "timezone": "America/New_York",
+            "description": "Elm City Games"
+        },
+        "defaultCategory": "games",
+        "onlineAddress": "https://www.elmcitygames.com/"
+    },
+    "Group Name 2": "...",
+    "Group Name 2": "..."
+}
+
+
+
+
+
+@endjson

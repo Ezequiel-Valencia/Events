@@ -3,7 +3,7 @@
         "groupID": 25,
         "defaultImageID": "96",
         "title": "Stonington Farmers Market",
-        "sourceIDs": ["Stonington Farmers Market"],
+        "calendarIDs": ["Stonington Farmers Market"],
         "defaultLocation": {
             "geom": "-71.90182249966294;41.3420500959362",
             "locality": "Stonington",
@@ -26,7 +26,7 @@
         "groupID": 25,
         "defaultImageID": "97",
         "title": "Naugatuck Farmers Market",
-        "sourceIDs": ["Naugatuck Farmers Market"],
+        "calendarIDs": ["Naugatuck Farmers Market"],
         "defaultLocation": {
             "geom": "-73.05572286634849;41.49080758327309",
             "locality": "Naugatuck",
@@ -49,7 +49,7 @@
         "groupID": 25,
         "defaultImageID": "98",
         "title": "Stamford Downtown Farmers Market",
-        "sourceIDs": ["Stamford Downtown Farmers Market"],
+        "calendarIDs": ["Stamford Downtown Farmers Market"],
         "defaultLocation": {
             "geom": "-73.52903985602237;41.05457207106413",
             "locality": "Stamford",
@@ -72,7 +72,7 @@
         "groupID": 25,
         "defaultImageID": "99",
         "title": "East Side Bridgeport Farmers Market",
-        "sourceIDs": ["East Side Bridgeport Farmers Market"],
+        "calendarIDs": ["East Side Bridgeport Farmers Market"],
         "defaultLocation": {
             "geom": "-73.17905101778737;41.18531124358109",
             "locality": "Bridgeport",
@@ -95,7 +95,7 @@
         "groupID": 25,
         "defaultImageID": "100",
         "title": "West Hartford Farmers Market",
-        "sourceIDs": ["West Hartford Farmers Market"],
+        "calendarIDs": ["West Hartford Farmers Market"],
         "defaultLocation": {
             "geom": "-72.74495383344147;41.75973925487368",
             "locality": "West Hartford",
@@ -118,7 +118,7 @@
         "groupID": 25,
         "defaultImageID": "101",
         "title": "Willimantic Farmers Market",
-        "sourceIDs": ["Willimantic Farmers Market"],
+        "calendarIDs": ["Willimantic Farmers Market"],
         "defaultLocation": {
             "geom": "-71.90182249966294;41.3420500959362",
             "locality": "Willimantic",
@@ -141,7 +141,7 @@
         "groupID": 25,
         "defaultImageID": "103",
         "title": "CitySeed Woster Square Farmers Market",
-        "sourceIDs": ["CitySeed Woster Square Farmers Market"],
+        "calendarIDs": ["CitySeed Woster Square Farmers Market"],
         "defaultLocation": {
             "geom": "-72.91410063993968;41.30413896209955",
             "locality": "New Haven",

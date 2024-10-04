@@ -2,8 +2,13 @@
 
     "New Haven Library": {
         "calendarIDs": ["8qf27rmmeun7mat412odluuha11umbhm@import.calendar.google.com"],
-        "groupID": 22,
-        "defaultImageID": "93",
+        "publisherInfo" : {
+            "mobilizon": {
+                "groupID": 22,
+                "defaultImageID": "93",
+                "defaultCategory": "family_education"
+            }
+        },
         "defaultLocation": {
             "geom": "-72.9242791637932;41.30925775517219",
             "locality": "New Haven",
@@ -14,21 +19,29 @@
             "timezone": "America/New_York",
             "description": "New Haven Free Public Library"
         },
-        "defaultCategory": "family_education",
         "onlineAddress": "https://nhfpl.org/"
     },
     "Save The Sound":{
         "calendarIDs": ["ctenvironment@gmail.com"],
-        "groupID": 16,
-        "defaultImageID": "87",
-        "defaultCategory": "causes",
+        "publisherInfo" : {
+            "mobilizon" : {
+                "groupID": 16,
+                "defaultImageID": "87",
+                "defaultCategory": "causes"
+            }
+        },
         "onlineAddress": "https://www.savethesound.org/",
         "defaultTags": []
     },
     "Hartford Jazz Society": {
         "calendarIDs" : ["1323fv30pk4la63e4je86sook47avts9@import.calendar.google.com"],
-        "groupID": 17,
-        "defaultImageID": "88",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 17,
+                "defaultImageID": "88",
+                "defaultCategory": "music"
+            }
+        },
         "defaultLocation": {
             "geom": "-72.70305527485634;41.75953661582158",
             "locality": "Hartford",
@@ -39,13 +52,17 @@
             "timezone": "America/New_York",
             "description": "Hartford Jazz Society"
         },
-        "defaultCategory": "music",
         "onlineAddress": "https://hartfordjazzsociety.com/"
     },
     "Healing Meals" : {
         "calendarIDs" : ["6lrbqnpdr3unfvr8oolv089hqu37nal6@import.calendar.google.com"],
-        "groupID": 18,
-        "defaultImageID": "89",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 18,
+                "defaultImageID": "89",
+                "defaultCategory": "causes"
+            }
+        },
         "defaultLocation": {
             "geom": "-72.80937298908275;41.82764845622812",
             "locality": "Simsbury",
@@ -56,19 +73,26 @@
             "timezone": "America/New_York",
             "description": "Healing Meals"
         },
-        "defaultCategory": "causes",
         "onlineAddress": "https://healingmealsproject.org/"
     },
     "Downtown New Haven": {
         "calendarIDs": ["3sb3oi1p84kjscr1lrpa15paavbhtrol@import.calendar.google.com"],
-        "groupID": 19,
-        "defaultImageID": "90",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 19,
+                "defaultImageID": "90"
+            }
+        },
         "onlineAddress": "https://www.infonewhaven.com/"
     },
     "The Institute Library": {
         "calendarIDs": ["ke5stbpohu2nb4qh3f1r9vgci4nv5knb@import.calendar.google.com"],
-        "groupID": 20,
-        "defaultImageID": "91",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 20,
+                "defaultImageID": "91"
+            }
+        }, 
         "defaultLocation": {
             "geom": "-72.9246404880221;41.30598129042223",
             "locality": "New Haven",
@@ -88,8 +112,13 @@
     "c_fe0f40abce0f4fa9b355dd8841fa0005d026bd35d1152496e5677011d7dee699@group.calendar.google.com",
     "c_501e2535f006ba84b5c9e7be6478db06622b38739fa72b71db9ebf536c44c1b9@group.calendar.google.com"],
         "calendarNames": ["Board Games", "Jigsaw Puzzles", "Magic the Gathering", "Miniature Games", "Trading Card Games"],
-        "groupID": 21,
-        "defaultImageID": "92",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 21,
+                "defaultImageID": "92",
+                "defaultCategory": "games"
+            }
+        },
         "defaultLocation": {
             "geom": "-72.9247029825365;41.30471587811061",
             "locality": "New Haven",
@@ -100,13 +129,17 @@
             "timezone": "America/New_York",
             "description": "Elm City Games"
         },
-        "defaultCategory": "games",
         "onlineAddress": "https://www.elmcitygames.com/"
     },
     "Bradley Street Bike Co-Op":{
         "calendarIDs": ["bsbc.co_c4dt5esnmutedv7p3nu01aerhk@group.calendar.google.com"],
-        "groupID": 15,
-        "defaultImageID": "86",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 15,
+                "defaultImageID": "86",
+                "defaultCategory": "outdoors_adventure"
+            }
+        },
         "defaultLocation": {
             "geom": "-72.91659780190719;41.311977689389536",
             "locality": "New Haven",
@@ -117,13 +150,16 @@
             "timezone": "America/New_York",
             "description": "Bradley Street Bike Co-Op"
         },
-        "defaultCategory": "outdoors_adventure",
         "onlineAddress": "https://bsbc.co/"
     },
     "WBT": {
         "calendarIDs": ["wbtblackbox@gmail.com"],
-        "groupID": 24,
-        "defaultImageID": "95",
+        "publisherInfo": {
+            "mobilizon": {
+                "groupID": 24,
+                "defaultImageID": "95"
+            }
+        },
         "defaultLocation": {
             "geom": "-72.9214882248006;41.31357906228518",
             "locality": "New Haven",

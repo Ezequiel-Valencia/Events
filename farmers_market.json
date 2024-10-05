@@ -165,10 +165,12 @@
         "title": "CitySeed Woster Square Farmers Market",
         "calendarIDs": ["CitySeed Woster Square Farmers Market"],
         "publisherInfo": {
-            "groupID": 25,
-            "defaultImageID": "103",
-            "defaultCategory": "food_drink",
-            "defaultTags": ["Farmer Market"]
+            "mobilizon": {
+                "groupID": 25,
+                "defaultImageID": "103",
+                "defaultCategory": "food_drink",
+                "defaultTags": ["Farmer Market"]
+            }
         },
         "defaultLocation": {
             "geom": "-72.91410063993968;41.30413896209955",

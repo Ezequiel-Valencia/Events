@@ -1,0 +1,10 @@
+{
+    "Mobilizon": {
+      "GoogleCalendarKernelSources": [
+        "https://raw.githubusercontent.com/AvocadoMoon/Events/refs/heads/main/gcal.json"
+      ],
+      "StaticKernelSources": [
+        "https://raw.githubusercontent.com/AvocadoMoon/Events/refs/heads/main/farmers_market.json"
+      ]
+    }
+}

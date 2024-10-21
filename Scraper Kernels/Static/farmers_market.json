@@ -2,6 +2,7 @@
     "Stonington": {
         "title": "Stonington Farmers Market",
         "calendarIDs": ["Stonington Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,
@@ -29,6 +30,7 @@
     "Naugatuck": {
         "title": "Naugatuck Farmers Market",
         "calendarIDs": ["Naugatuck Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,
@@ -56,6 +58,7 @@
     "Stamford": {
         "title": "Stamford Downtown Farmers Market",
         "calendarIDs": ["Stamford Downtown Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,
@@ -83,6 +86,7 @@
     "East side Bridgeport": {
         "title": "East Side Bridgeport Farmers Market",
         "calendarIDs": ["East Side Bridgeport Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,
@@ -110,6 +114,7 @@
     "West Hartford": {
         "title": "West Hartford Farmers Market",
         "calendarIDs": ["West Hartford Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,
@@ -137,6 +142,7 @@
     "Willimantic": {
         "title": "Willimantic Farmers Market",
         "calendarIDs": ["Willimantic Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,
@@ -164,6 +170,7 @@
     "Woster Square New Haven": {
         "title": "CitySeed Woster Square Farmers Market",
         "calendarIDs": ["CitySeed Woster Square Farmers Market"],
+        "calendarType": "STATIC",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 25,

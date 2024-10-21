@@ -2,6 +2,7 @@
 
     "New Haven Library": {
         "calendarIDs": ["8qf27rmmeun7mat412odluuha11umbhm@import.calendar.google.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo" : {
             "mobilizon": {
                 "groupID": 22,
@@ -23,6 +24,7 @@
     },
     "Save The Sound":{
         "calendarIDs": ["ctenvironment@gmail.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo" : {
             "mobilizon" : {
                 "groupID": 16,
@@ -35,6 +37,7 @@
     },
     "Hartford Jazz Society": {
         "calendarIDs" : ["1323fv30pk4la63e4je86sook47avts9@import.calendar.google.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 17,
@@ -56,6 +59,7 @@
     },
     "Healing Meals" : {
         "calendarIDs" : ["6lrbqnpdr3unfvr8oolv089hqu37nal6@import.calendar.google.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 18,
@@ -77,6 +81,7 @@
     },
     "Downtown New Haven": {
         "calendarIDs": ["3sb3oi1p84kjscr1lrpa15paavbhtrol@import.calendar.google.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 19,
@@ -87,6 +92,7 @@
     },
     "The Institute Library": {
         "calendarIDs": ["ke5stbpohu2nb4qh3f1r9vgci4nv5knb@import.calendar.google.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 20,
@@ -112,6 +118,7 @@
     "c_fe0f40abce0f4fa9b355dd8841fa0005d026bd35d1152496e5677011d7dee699@group.calendar.google.com",
     "c_501e2535f006ba84b5c9e7be6478db06622b38739fa72b71db9ebf536c44c1b9@group.calendar.google.com"],
         "calendarNames": ["Board Games", "Jigsaw Puzzles", "Magic the Gathering", "Miniature Games", "Trading Card Games"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 21,
@@ -133,6 +140,7 @@
     },
     "Bradley Street Bike Co-Op":{
         "calendarIDs": ["bsbc.co_c4dt5esnmutedv7p3nu01aerhk@group.calendar.google.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 15,
@@ -154,6 +162,7 @@
     },
     "WBT": {
         "calendarIDs": ["wbtblackbox@gmail.com"],
+        "calendarType": "GOOGLE_CAL",
         "publisherInfo": {
             "mobilizon": {
                 "groupID": 24,

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hartford Jazz Society
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Events for Hartford Jazz Society
+BEGIN:VEVENT
+DTSTART:20241030T230000Z
+DTEND:20241031T020000Z
+DTSTAMP:20241030T235214Z
+UID:10003318-1730314800-1730325600@hartfordjazzsociety.com
+URL:https://hartfordjazzsociety.com/event/black-eyed-sallys-jazz-jam/2024-1
+ 0-30/
+CREATED:20241019T023128Z
+DESCRIPTION:Located in downtown Hartford\, for the aficionado\, musician\, 
+ or the curious first-timer\, Black Eyed Sally’s Jazz Jams are the best tast
+ e of live jazz in Hartford. Set in the southern juke joint atmosphere of Bl
+ ack-eyed Sally’s\, these jam sessions will strike a chord as you hear what 
+ our local talent has to offer\, with regular special appearances by big cit
+ y jazz names. Experience the cool original music of the jam session while y
+ ou enjoy the hot fierce cookin’ of Hartford’s favorite BBQ joint. \nAfter a
+  long hiatus due to the pandemic\, regularly scheduled jazz jams have retur
+ ned to Black Eyed Sally’s every Wednesday. There will be a featured jazz en
+ semble followed by an open jam session. Bring your axe and be ready to jam!
+  \nThe music begins at 7:00 PM\, jam session begins after 1st set. No cover
+  charge most nights\, under 21’s welcome. \nPresented by the Hartford Jazz 
+ Society and Neefjazz Entertainment
+LAST-MODIFIED:20241019T111021Z
+LOCATION:Black-eyed Sally’s Southern Kitchen & Bar\, 350 Asylum St.\, Hartf
+ ord\, CT\, 06103
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Black-eyed Sally’s Jazz Jam
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T230000Z
+DTEND:20241031T020000Z
+DTSTAMP:20241030T235214Z
+UID:10003318-1730314800-1730325600@hartfordjazzsociety.com
+URL:https://hartfordjazzsociety.com/event/black-eyed-sallys-jazz-jam/2024-1
+ 0-30/
+CREATED:20241019T023128Z
+LAST-MODIFIED:20241019T111021Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Black-eyed Sally’s Jazz Jam
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -56,6 +56,28 @@
             "defaultTimes": [["2024-06-15T09:00:00-04:00", "2024-06-15T14:00:00-04:00"]],
             "startDate": "2024-06-15T00:00:00-04:00",
             "endDate": "2040-10-26T00:00:00-04:00"
+        }, 
+        "Hartford Jazz Society": {
+            "calendarIDs" : ["https://calendar.google.com/calendar/ical/1323fv30pk4la63e4je86sook47avts9%40import.calendar.google.com/public/basic.ics"],
+            "calendarType": "ICAL",
+            "publisherInfo": {
+                "mobilizon": {
+                    "groupID": 17,
+                    "defaultImageID": "88",
+                    "defaultCategory": "music"
+                }
+            },
+            "defaultLocation": {
+                "geom": "-72.70305527485634;41.75953661582158",
+                "locality": "Hartford",
+                "postalCode": "06106",
+                "street": "56 Arbor St",
+                "country": "United States",
+                "region": "Connecticut",
+                "timezone": "America/New_York",
+                "description": "Hartford Jazz Society"
+            },
+            "onlineAddress": "https://hartfordjazzsociety.com/"
         }
     }
 }

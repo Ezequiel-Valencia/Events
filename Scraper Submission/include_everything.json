@@ -1,6 +1,7 @@
 {
     "Mobilizon": [
-      "https://kernels.ctgrassroots.org/Group%20Packages/gcal.json",
+      "https://kernels.ctgrassroots.org/Group%20Packages/libraries.json",
+      "https://kernels.ctgrassroots.org/Group%20Packages/misc.json",
       "https://kernels.ctgrassroots.org/Group%20Packages/farmers_market.json"
     ]
 }

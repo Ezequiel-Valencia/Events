@@ -9,7 +9,8 @@
                 "mobilizon": {
                     "groupID": 22,
                     "defaultImageID": "93",
-                    "defaultCategory": "family_education"
+                    "defaultCategory": "family_education",
+                    "defaultTags": ["Library"]
                 }
             },
             "defaultLocation": {
@@ -22,8 +23,7 @@
                 "timezone": "America/New_York",
                 "description": "New Haven Free Public Library"
             },
-            "onlineAddress": "https://nhfpl.org/",
-            "defaultTags": ["Library"]
+            "onlineAddress": "https://nhfpl.org/"
         },
         "The Institute Library": {
             "calendarIDs": ["https://calendar.google.com/calendar/ical/ke5stbpohu2nb4qh3f1r9vgci4nv5knb%40import.calendar.google.com/public/basic.ics"],
@@ -31,7 +31,8 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 20,
-                    "defaultImageID": "91"
+                    "defaultImageID": "91",
+                    "defaultTags": ["Library"]
                 }
             }, 
             "defaultLocation": {
@@ -44,8 +45,7 @@
                 "timezone": "America/New_York",
                 "description": "The Institute Library"
             },
-            "onlineAddress": "https://institutelibrary.org/",
-            "defaultTags": ["Library"]
+            "onlineAddress": "https://institutelibrary.org/"
         }
     }
 }

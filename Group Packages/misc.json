@@ -2,19 +2,6 @@
     "name": "Misc Package",
     "description": "Calendars of With No Relation.",
     "groupKernels": {
-        "Save The Sound":{
-            "calendarIDs": ["https://calendar.google.com/calendar/ical/ctenvironment%40gmail.com/public/basic.ics"],
-            "calendarType": "ICAL",
-            "publisherInfo" : {
-                "mobilizon" : {
-                    "groupID": 16,
-                    "defaultImageID": "87",
-                    "defaultCategory": "causes"
-                }
-            },
-            "onlineAddress": "https://www.savethesound.org/",
-            "defaultTags": []
-        },
         "Hartford Jazz Society": {
             "calendarIDs" : ["https://calendar.google.com/calendar/ical/1323fv30pk4la63e4je86sook47avts9%40import.calendar.google.com/public/basic.ics"],
             "calendarType": "ICAL",
@@ -22,7 +9,8 @@
                 "mobilizon": {
                     "groupID": 17,
                     "defaultImageID": "88",
-                    "defaultCategory": "music"
+                    "defaultCategory": "music",
+                    "defaultTags": ["Jazz"]
                 }
             },
             "defaultLocation": {
@@ -36,28 +24,6 @@
                 "description": "Hartford Jazz Society"
             },
             "onlineAddress": "https://hartfordjazzsociety.com/"
-        },
-        "Healing Meals" : {
-            "calendarIDs" : ["https://calendar.google.com/calendar/ical/6lrbqnpdr3unfvr8oolv089hqu37nal6%40import.calendar.google.com/public/basic.ics"],
-            "calendarType": "ICAL",
-            "publisherInfo": {
-                "mobilizon": {
-                    "groupID": 18,
-                    "defaultImageID": "89",
-                    "defaultCategory": "causes"
-                }
-            },
-            "defaultLocation": {
-                "geom": "-72.80937298908275;41.82764845622812",
-                "locality": "Simsbury",
-                "postalCode": "06070",
-                "street": "140 Nod Rd",
-                "country": "United States",
-                "region": "Connecticut",
-                "timezone": "America/New_York",
-                "description": "Healing Meals"
-            },
-            "onlineAddress": "https://healingmealsproject.org/"
         },
         "Downtown New Haven": {
             "calendarIDs": ["3sb3oi1p84kjscr1lrpa15paavbhtrol@import.calendar.google.com"],
@@ -96,28 +62,6 @@
                 "description": "Elm City Games"
             },
             "onlineAddress": "https://www.elmcitygames.com/"
-        },
-        "Bradley Street Bike Co-Op":{
-            "calendarIDs": ["https://calendar.google.com/calendar/ical/bsbc.co_c4dt5esnmutedv7p3nu01aerhk%40group.calendar.google.com/public/basic.ics"],
-            "calendarType": "ICAL",
-            "publisherInfo": {
-                "mobilizon": {
-                    "groupID": 15,
-                    "defaultImageID": "86",
-                    "defaultCategory": "outdoors_adventure"
-                }
-            },
-            "defaultLocation": {
-                "geom": "-72.91659780190719;41.311977689389536",
-                "locality": "New Haven",
-                "postalCode": "06511",
-                "street": "138 Bradley St",
-                "country": "United States",
-                "region": "Connecticut",
-                "timezone": "America/New_York",
-                "description": "Bradley Street Bike Co-Op"
-            },
-            "onlineAddress": "https://bsbc.co/"
         },
         "WBT": {
             "calendarIDs": ["https://calendar.google.com/calendar/ical/wbtblackbox%40gmail.com/public/basic.ics"],

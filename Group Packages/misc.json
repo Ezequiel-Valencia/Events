@@ -8,7 +8,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 17,
-                    "defaultImageID": "88",
+                    "defaultImageID": "0e49d894-029f-4e7c-8623-e726fbae40e0",
                     "defaultCategory": "music",
                     "defaultTags": ["Jazz"]
                 }
@@ -31,7 +31,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 19,
-                    "defaultImageID": "90"
+                    "defaultImageID": "d6fc4cd6-9b71-43a0-ae65-f2a15a4a6d68"
                 }
             },
             "onlineAddress": "https://www.infonewhaven.com/"
@@ -47,7 +47,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 21,
-                    "defaultImageID": "92",
+                    "defaultImageID": "3aaf191a-31fb-4bda-b925-aa02cdd7788a",
                     "defaultCategory": "games"
                 }
             },
@@ -70,7 +70,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 24,
-                    "defaultImageID": "95"
+                    "defaultImageID": "58abf5d5-6c59-450f-b284-e4fd5215c0d1"
                 }
             },
             "defaultLocation": {

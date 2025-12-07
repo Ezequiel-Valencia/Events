@@ -8,7 +8,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "96",
+                    "defaultImageID": "e6d64dd3-e4c6-4390-88ff-7de4f34be821",
                     "defaultTags": ["Farmer Market"],
                     "defaultCategory": "food_drink"
                 }
@@ -36,7 +36,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "97",
+                    "defaultImageID": "f368c3dd-9ee9-427b-acd4-f2aa5a716df0",
                     "defaultTags": ["Farmer Market"],
                     "defaultCategory": "food_drink"
                 }
@@ -64,7 +64,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "98",
+                    "defaultImageID": "056e9997-70bb-4fba-baa4-f2b146f8e4aa",
                     "defaultCategory": "food_drink",
                     "defaultTags": ["Farmer Market"]
                 }
@@ -92,7 +92,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "99",
+                    "defaultImageID": "c8d317f6-c4b4-436b-9061-3fde263dbc80",
                     "defaultCategory": "food_drink",
                     "defaultTags": ["Farmer Market"]
                 }
@@ -120,7 +120,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "100",
+                    "defaultImageID": "6605db03-465b-4a59-954c-4b0eb2127058",
                     "defaultCategory": "food_drink",
                     "defaultTags": ["Farmer Market"]
                 }
@@ -148,7 +148,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "101",
+                    "defaultImageID": "f7f8b87a-acf2-4037-b33f-f4c6f7166661",
                     "defaultCategory": "food_drink",
                     "defaultTags": ["Farmer Market"]
                 }
@@ -176,7 +176,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 25,
-                    "defaultImageID": "103",
+                    "defaultImageID": "a6b29689-016a-4f82-a480-f623259706f4",
                     "defaultCategory": "food_drink",
                     "defaultTags": ["Farmer Market"]
                 }

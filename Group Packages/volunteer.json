@@ -8,7 +8,7 @@
             "publisherInfo" : {
                 "mobilizon" : {
                     "groupID": 16,
-                    "defaultImageID": "87",
+                    "defaultImageID": "31725094-a3a7-4e9f-b12e-a0717b8c6f86",
                     "defaultCategory": "causes",
                     "defaultTags": ["Volunteer", "Environmentalism"]
                 }
@@ -22,7 +22,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 18,
-                    "defaultImageID": "89",
+                    "defaultImageID": "5c2dd451-5a98-4d23-a3dc-bcab2566284c",
                     "defaultCategory": "causes",
                     "defaultTags": ["Volunteer"]
                 }
@@ -45,7 +45,7 @@
             "publisherInfo": {
                 "mobilizon": {
                     "groupID": 15,
-                    "defaultImageID": "86",
+                    "defaultImageID": "a192d1e5-20e9-44e0-9415-6488dad57fa0",
                     "defaultCategory": "outdoors_adventure",
                     "defaultTags": ["Volunteer", "Bikes"]
                 }

@@ -17,7 +17,7 @@
             "defaultTags": []
         },
         "Healing Meals" : {
-            "calendarIDs" : ["https://calendar.google.com/calendar/ical/6lrbqnpdr3unfvr8oolv089hqu37nal6%40import.calendar.google.com/public/basic.ics"],
+            "calendarIDs" : [],
             "calendarType": "ICAL",
             "publisherInfo": {
                 "mobilizon": {

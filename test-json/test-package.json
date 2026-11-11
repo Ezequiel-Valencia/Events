@@ -14,7 +14,8 @@
                 }
             },
             "defaultLocation": {
-                "geom": "-71.90182249966294;41.3420500959362",
+                "latitude": 41.3420500959362,
+                "longitude": -71.90182249966294,
                 "locality": "Stonington",
                 "postalCode": "06378",
                 "street": "22 Bayview Ave",
@@ -42,7 +43,8 @@
                 }
             },
             "defaultLocation": {
-                "geom": "-73.52903985602237;41.05457207106413",
+                "latitude": 41.05457207106413,
+                "longitude": -73.52903985602237,
                 "locality": "Stamford",
                 "postalCode": "06901",
                 "street": "130 Atlantic St",
@@ -56,7 +58,7 @@
             "defaultTimes": [["2024-06-15T09:00:00-04:00", "2024-06-15T14:00:00-04:00"]],
             "startDate": "2024-06-15T00:00:00-04:00",
             "endDate": "2040-10-26T00:00:00-04:00"
-        }, 
+        },
         "Hartford Jazz Society": {
             "calendarIDs" : ["https://calendar.google.com/calendar/ical/1323fv30pk4la63e4je86sook47avts9%40import.calendar.google.com/public/basic.ics"],
             "calendarType": "ICAL",
@@ -68,7 +70,8 @@
                 }
             },
             "defaultLocation": {
-                "geom": "-72.70305527485634;41.75953661582158",
+                "latitude": 41.75953661582158,
+                "longitude": -72.70305527485634,
                 "locality": "Hartford",
                 "postalCode": "06106",
                 "street": "56 Arbor St",

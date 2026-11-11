@@ -14,7 +14,8 @@
                 }
             },
             "defaultLocation": {
-                "geom": "-72.70305527485634;41.75953661582158",
+                "latitude": 41.75953661582158,
+                "longitude": -72.70305527485634,
                 "locality": "Hartford",
                 "postalCode": "06106",
                 "street": "56 Arbor St",
@@ -52,7 +53,8 @@
                 }
             },
             "defaultLocation": {
-                "geom": "-72.9247029825365;41.30471587811061",
+                "latitude": 41.30471587811061,
+                "longitude": -72.9247029825365,
                 "locality": "New Haven",
                 "postalCode": "06510",
                 "street": "71 Orange St",
@@ -74,7 +76,8 @@
                 }
             },
             "defaultLocation": {
-                "geom": "-72.9214882248006;41.31357906228518",
+                "latitude": 41.31357906228518,
+                "longitude": -72.9214882248006,
                 "locality": "New Haven",
                 "postalCode": "06510",
                 "street": "105 Whitney Ave",
